@@ -1,5 +1,7 @@
 # awesome-elektrotechnik-de
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 Kuratierte Liste deutschsprachiger Ressourcen für Elektrotechnik — Normen-Verzeichnisse, Hersteller-Datenblatt-Quellen, kostenlose Rechner, Lernmaterial. Fokus auf das, was Elektrofachkräfte im DACH-Raum tatsächlich brauchen.
 
 Gepflegt von [TGB Automation](https://tgb-automation.de) — Pull-Requests willkommen.
@@ -37,9 +39,12 @@ Gepflegt von [TGB Automation](https://tgb-automation.de) — Pull-Requests willk
 
 ## Kostenlose Online-Rechner
 
-- [TGB Automation Rechner](https://tgb-automation.de/) — Schaltschrank, Spannungsabfall, Kabelquerschnitt, Absicherung, Schleifenimpedanz, Balkonkraftwerk.
+- [TGB Automation Rechner](https://tgb-automation.de/) — Schaltschrank, Spannungsabfall, Kabelquerschnitt, Absicherung, Schleifenimpedanz, Balkonkraftwerk; mit offengelegten Formeln und PDF-Export.
+- [Schrack Kabel-Kalkulator](https://www.schrack-technik.de/tools/schrack-cable-calculator) — Leitungsquerschnitt inkl. Spannungsabfall, Verlegeart und Umgebungstemperatur.
+- [e-rex Leitungsquerschnitt-Rechner](https://www.e-rex.de/tools/leitungsquerschnitt-online-rechner) — Querschnitt für Praxis und Heimwerker, mit Verlegeart und Häufung.
+- [zaehlerschrank24 Berechnungen](https://www.zaehlerschrank24.de/berechnungen/) — Stromstärke, Leistung, Spannungsfall und Leitungsquerschnitt.
 
-> Weitere Quellen werden ergänzt. Pull-Request mit Begründung willkommen — Bedingung: kostenlos und ohne Login zugänglich, deutschsprachig oder klar physikalisch nachvollziehbar.
+> Weitere Quellen willkommen. Pull-Request mit Begründung — Bedingung: kostenlos und ohne Login zugänglich, deutschsprachig oder klar physikalisch nachvollziehbar.
 
 ## Förder- und Bonusprogramme
 
