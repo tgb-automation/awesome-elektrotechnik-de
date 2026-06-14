@@ -36,6 +36,8 @@ Gepflegt von [TGB Automation](https://tgb-automation.de) — Pull-Requests willk
 - [Phoenix Contact](https://www.phoenixcontact.com/de-de) — Reihenklemmen, Industrie-Elektronik.
 - [Schneider Electric Product Finder](https://www.se.com/de/de/work/products/) — Verteilung, Steuerung, Automation.
 - [WAGO Online-Katalog](https://www.wago.com/de/) — Reihenklemmen, Steckverbinder.
+- [Rittal](https://www.rittal.com/) — Schaltschränke, Klimatisierung, Stromverteilung.
+- [Weidmüller](https://www.weidmueller.de/) — Reihenklemmen, Steckverbinder, Industrie-Connectivity.
 
 ## Kostenlose Online-Rechner
 
@@ -58,6 +60,7 @@ Mit Bezug zu Elektrotechnik, Photovoltaik, Wallbox, Wärmepumpe:
 ## Lernressourcen
 
 - [Elektrotechnik-Lexikon TGB](https://tgb-automation.de/lexikon/) — Fachbegriffe mit interaktiven Grafiken.
+- [Elektronik-Kompendium](https://www.elektronik-kompendium.de/) — umfangreiches deutsches Nachschlagewerk für Elektronik und Elektrotechnik.
 - [Elektrotechnik-Fachbuch.de](https://www.elektrotechnik-fachbuch.de/) — Übersicht über deutschsprachige Lehrwerke.
 - [Hochschule München — Elektrotechnik OER](https://www.hm.edu/) — offene Lehrmaterialien (Verfügbarkeit prüfen).
 
@@ -73,6 +76,7 @@ Mit Bezug zu Elektrotechnik, Photovoltaik, Wallbox, Wärmepumpe:
 - [WSCAD](https://www.wscad.com/) — E-CAD für Schaltschrankbau.
 - [EPLAN](https://www.eplan.com/de/) — E-CAD-Standard im DACH-Raum.
 - [QElectroTech](https://qelectrotech.org/) — kostenlose Open-Source E-CAD-Alternative.
+- [KiCad](https://www.kicad.org/) — kostenlose Open-Source-EDA-Suite für Schaltpläne und Leiterplatten.
 - [pandapower](https://www.pandapower.org/) — Python-Bibliothek für Netzberechnung.
 
 ---
